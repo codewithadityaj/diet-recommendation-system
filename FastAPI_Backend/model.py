@@ -1,4 +1,5 @@
 import numpy as np
+import pandas as pd
 import re
 from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import NearestNeighbors
@@ -7,9 +8,31 @@ from sklearn.preprocessing import FunctionTransformer
 
 
 def scaling(dataframe):
-    scaler=StandardScaler()
-    prep_data=scaler.fit_transform(dataframe.iloc[:,6:15].to_numpy())
-    return prep_data,scaler
+    scaler = StandardScaler()
+    
+    # Explicit numeric columns expected
+    numeric_columns = [
+        "Calories",
+        "FatContent",
+        "SaturatedFatContent",
+        "CholesterolContent",
+        "SodiumContent",
+        "CarbohydrateContent",
+        "FiberContent",
+        "SugarContent",
+        "ProteinContent"
+    ]
+
+    # Convert to float, coercing errors (optional safety)
+    dataframe[numeric_columns] = dataframe[numeric_columns].apply(pd.to_numeric, errors='coerce')
+
+    # Fill NaNs with 0 (or use mean, median, etc.)
+    dataframe[numeric_columns] = dataframe[numeric_columns].fillna(0)
+
+    prep_data = scaler.fit_transform(dataframe[numeric_columns])
+    return prep_data, scaler
+
+
 
 def nn_predictor(prep_data):
     neigh = NearestNeighbors(metric='cosine',algorithm='brute')
@@ -47,9 +70,7 @@ def recommend(dataframe,_input,ingredients=[],params={'n_neighbors':5,'return_di
             return None
 
 def extract_quoted_strings(s):
-    # Find all the strings inside double quotes
     strings = re.findall(r'"([^"]*)"', s)
-    # Join the strings with 'and'
     return strings
 
 def output_recommended_recipes(dataframe):

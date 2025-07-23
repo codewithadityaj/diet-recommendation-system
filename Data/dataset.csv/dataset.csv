@@ -1,0 +1,6 @@
+Name,RecipeIngredientParts,RecipeInstructions,FatContent,SaturatedFatContent,CholesterolContent,SodiumContent,CarbohydrateContent,FiberContent,SugarContent,ProteinContent,Calories
+Grilled Chicken,"[\"chicken breast\", \"olive oil\", \"garlic\"]","[\"Preheat grill\", \"Cook chicken\"]",6.0,1.5,70.0,140.0,0.0,0.0,0.0,25.0,165
+Veggie Stir Fry,"[\"broccoli\", \"bell pepper\", \"soy sauce\"]","[\"Stir-fry veggies\", \"Add sauce\"]",4.0,0.5,0.0,300.0,15.0,5.0,4.0,3.0,110
+Fruit Smoothie,"[\"banana\", \"berries\", \"milk\"]","[\"Blend ingredients\"]",2.0,0.5,5.0,80.0,30.0,3.0,20.0,4.0,120
+Quinoa Salad,"[\"quinoa\", \"cucumber\", \"olive oil\"]","[\"Mix ingredients\"]",5.0,0.7,0.0,50.0,22.0,3.5,2.0,6.0,130
+Oatmeal Bowl,"[\"oats\", \"milk\", \"honey\"]","[\"Boil oats\", \"Add toppings\"]",3.5,1.0,0.0,60.0,27.0,4.0,10.0,5.0,140

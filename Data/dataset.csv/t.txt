@@ -1,0 +1,102 @@
+RecipeName,Calories,Protein,Fat,Carbohydrates,RecipeIngredientParts,Tags
+Recipe_1,433.6,35.9,9.8,45.9,"chicken, egg, tofu, beef, milk",gluten-free
+Recipe_2,362.3,10.6,20.4,57.8,"corn, onion, walnut, cheese, garlic, zucchini",gluten-free
+Recipe_3,695.4,10.5,19.6,61.3,"chicken, almond, rice","vegan, keto"
+Recipe_4,258.9,30.8,10.3,68.4,"garlic, tofu, cheese, onion, almond, corn, pasta","keto, dairy-free, high-protein"
+Recipe_5,341.5,21.0,6.3,41.1,"egg, onion, cucumber, beef, almond",vegetarian
+Recipe_6,550.5,39.6,11.5,46.4,"beef, carrot, oats, corn, zucchini, orange, onion","paleo, dairy-free"
+Recipe_7,482.7,28.2,21.2,60.9,"walnut, chicken, onion, rice","keto, low-carb, dairy-free"
+Recipe_8,577.2,35.1,19.0,59.9,"walnut, carrot, rice",vegan
+Recipe_9,586.6,22.4,6.6,38.0,"chicken, walnut, pasta, milk, beef, carrot",paleo
+Recipe_10,545.4,39.7,22.5,44.8,"tomato, lettuce, pepper, oats, pasta",paleo
+Recipe_11,592.0,18.2,17.8,34.1,"milk, oats, rice, pasta, cucumber, lettuce","vegan, gluten-free, high-protein"
+Recipe_12,482.1,11.4,23.6,53.3,"walnut, egg, cheese, corn, pasta, pepper",high-protein
+Recipe_13,257.9,13.8,18.1,54.9,"rice, corn, tomato","high-protein, vegetarian"
+Recipe_14,383.0,27.1,18.0,65.5,"cheese, almond, garlic, walnut, corn",vegetarian
+Recipe_15,555.0,31.6,23.2,33.6,"walnut, oats, lettuce, zucchini",dairy-free
+Recipe_16,357.8,31.8,15.3,63.5,"garlic, cucumber, orange, cheese, zucchini","keto, dairy-free, high-protein"
+Recipe_17,644.1,32.8,12.2,50.1,"orange, tomato, corn","high-protein, vegan, gluten-free"
+Recipe_18,551.3,26.5,19.3,58.7,"tofu, tomato, pasta",high-protein
+Recipe_19,456.8,25.7,7.7,52.8,"garlic, onion, rice","gluten-free, high-protein"
+Recipe_20,467.9,10.2,7.8,64.8,"lettuce, cucumber, peas, cheese, milk, orange, oats","vegetarian, high-protein"
+Recipe_21,665.5,17.4,5.3,33.6,"walnut, oats, garlic, cheese, mushroom","gluten-free, dairy-free, low-carb"
+Recipe_22,281.7,31.4,18.5,67.0,"onion, corn, chicken, pepper, almond","keto, gluten-free"
+Recipe_23,331.5,37.5,24.0,36.2,"garlic, egg, walnut, carrot","low-carb, paleo, dairy-free"
+Recipe_24,318.8,19.1,18.1,46.4,"peas, cucumber, chicken","gluten-free, low-carb, vegan"
+Recipe_25,267.6,26.6,21.4,63.7,"mushroom, egg, almond, pepper, tomato, lettuce","low-carb, keto"
+Recipe_26,451.9,36.9,12.0,45.4,"peas, almond, pepper",gluten-free
+Recipe_27,265.1,19.8,6.7,46.1,"tomato, cheese, lettuce, cucumber, corn, zucchini","vegetarian, low-carb, high-protein"
+Recipe_28,512.7,13.8,19.4,38.5,"corn, almond, cheese, tomato, pasta, tofu, zucchini","keto, low-carb, high-protein"
+Recipe_29,446.6,35.2,12.8,40.6,"lettuce, almond, garlic, milk, rice, orange","low-carb, vegan"
+Recipe_30,325.9,17.2,24.8,30.8,"cucumber, pepper, garlic, pasta",high-protein
+Recipe_31,359.0,28.1,23.0,56.4,"pasta, carrot, walnut, milk, cucumber",vegetarian
+Recipe_32,666.6,29.5,23.2,46.7,"oats, tofu, chicken, lettuce, almond","keto, high-protein"
+Recipe_33,553.4,24.0,24.3,37.6,"peas, oats, walnut, spinach","high-protein, paleo"
+Recipe_34,351.1,31.4,19.3,65.7,"oats, walnut, chicken, milk","dairy-free, paleo, vegetarian"
+Recipe_35,364.7,25.4,9.2,64.0,"pepper, cucumber, orange, zucchini","dairy-free, paleo"
+Recipe_36,599.8,18.6,17.7,62.0,"tofu, lettuce, tomato, egg, cheese","high-protein, vegan, gluten-free"
+Recipe_37,659.6,14.5,6.3,53.5,"carrot, rice, corn","paleo, gluten-free"
+Recipe_38,409.6,31.5,19.4,53.2,"chicken, egg, cucumber, beef","vegetarian, low-carb, vegan"
+Recipe_39,548.3,36.6,23.8,48.6,"onion, pasta, chicken","paleo, vegetarian, vegan"
+Recipe_40,656.7,11.9,22.2,41.0,"corn, egg, pasta, lettuce, orange, peas","high-protein, paleo, dairy-free"
+Recipe_41,429.8,12.9,22.9,69.6,"tomato, pasta, corn, almond","keto, paleo, vegetarian"
+Recipe_42,546.7,17.2,13.8,68.7,"milk, peas, chicken, almond","vegetarian, vegan"
+Recipe_43,431.0,18.8,11.0,51.9,"zucchini, almond, tomato, pepper, cucumber","vegan, paleo"
+Recipe_44,445.5,38.8,13.4,38.3,"garlic, milk, peas, orange","high-protein, vegetarian"
+Recipe_45,439.8,38.2,11.2,61.5,"walnut, peas, rice, mushroom, pepper, zucchini, corn","keto, vegan"
+Recipe_46,493.8,23.0,5.3,41.3,"peas, milk, cucumber","vegan, keto, paleo"
+Recipe_47,362.1,31.9,15.7,63.4,"milk, mushroom, onion, peas","vegan, dairy-free"
+Recipe_48,329.9,22.1,13.0,31.4,"carrot, pasta, zucchini, onion, pepper, peas",gluten-free
+Recipe_49,550.6,17.6,20.0,62.1,"tofu, cucumber, orange","dairy-free, gluten-free, keto"
+Recipe_50,414.7,28.0,20.7,61.6,"pasta, beef, mushroom, walnut, cheese, onion",low-carb
+Recipe_51,503.2,36.6,16.6,65.4,"orange, rice, garlic, milk, mushroom","vegan, low-carb"
+Recipe_52,295.7,38.1,5.9,55.2,"chicken, garlic, zucchini, lettuce",vegan
+Recipe_53,477.5,22.7,12.1,35.6,"zucchini, carrot, egg, chicken","paleo, vegetarian, vegan"
+Recipe_54,420.0,38.7,14.2,53.7,"carrot, tomato, almond","gluten-free, keto, paleo"
+Recipe_55,260.0,26.0,12.0,47.2,"walnut, onion, rice, egg, garlic, orange, corn","dairy-free, low-carb"
+Recipe_56,499.4,37.9,16.8,64.3,"lettuce, tofu, corn, onion, pepper, garlic, chicken","dairy-free, gluten-free"
+Recipe_57,274.5,19.2,23.4,47.3,"chicken, spinach, mushroom, lettuce, tomato, garlic, almond","keto, high-protein, vegan"
+Recipe_58,290.0,22.4,22.7,41.2,"walnut, spinach, garlic, beef, almond, chicken","paleo, keto, vegan"
+Recipe_59,440.9,30.7,19.7,46.8,"pepper, tofu, zucchini, lettuce, beef, oats","low-carb, vegan, paleo"
+Recipe_60,694.7,21.6,11.6,44.3,"corn, beef, lettuce",high-protein
+Recipe_61,305.0,20.9,10.9,64.4,"rice, chicken, pepper, onion",high-protein
+Recipe_62,488.6,22.7,24.8,65.8,"pasta, mushroom, carrot, spinach, pepper, tomato",paleo
+Recipe_63,429.7,32.6,6.7,55.5,"zucchini, cucumber, egg, mushroom","vegan, paleo"
+Recipe_64,648.3,15.4,7.8,51.3,"cucumber, beef, rice, carrot",keto
+Recipe_65,367.6,12.5,24.5,66.2,"almond, tomato, egg","vegetarian, low-carb"
+Recipe_66,471.4,12.1,16.1,58.9,"tomato, egg, orange, cheese","keto, gluten-free"
+Recipe_67,376.4,29.2,16.7,51.6,"almond, milk, cheese","paleo, gluten-free, vegan"
+Recipe_68,323.8,12.2,13.9,60.1,"garlic, onion, pepper",low-carb
+Recipe_69,619.2,25.9,21.3,30.6,"garlic, lettuce, tomato, pasta, almond, walnut",dairy-free
+Recipe_70,672.2,18.9,7.0,59.8,"mushroom, corn, egg, chicken, lettuce","high-protein, low-carb"
+Recipe_71,536.0,19.7,9.6,30.3,"zucchini, pepper, garlic, carrot, egg, peas","keto, low-carb, dairy-free"
+Recipe_72,329.7,36.5,22.4,35.0,"carrot, corn, rice, oats, milk, cheese, cucumber",high-protein
+Recipe_73,434.0,14.5,21.7,64.7,"oats, mushroom, walnut, spinach, pasta","low-carb, dairy-free"
+Recipe_74,507.1,29.1,19.5,67.2,"garlic, egg, pepper, mushroom, tomato, chicken, spinach",vegetarian
+Recipe_75,410.4,21.5,17.8,48.9,"corn, onion, pepper, cucumber, rice",gluten-free
+Recipe_76,405.1,38.9,13.5,51.4,"garlic, pepper, oats, pasta, cheese, almond, walnut","paleo, vegetarian"
+Recipe_77,266.7,13.3,16.8,39.7,"pepper, beef, carrot, zucchini, egg, milk, cheese","vegetarian, high-protein, keto"
+Recipe_78,391.1,18.8,12.1,52.2,"milk, beef, spinach, chicken, pasta",gluten-free
+Recipe_79,587.5,21.1,16.9,55.4,"walnut, lettuce, mushroom",keto
+Recipe_80,635.5,18.9,22.4,31.2,"tofu, peas, cucumber, beef, oats, onion","low-carb, vegan, keto"
+Recipe_81,325.0,17.2,19.4,48.0,"rice, spinach, chicken, zucchini, corn, lettuce","vegetarian, low-carb, vegan"
+Recipe_82,276.8,20.8,23.1,31.1,"tomato, lettuce, cucumber, spinach, garlic","low-carb, paleo, vegetarian"
+Recipe_83,406.9,25.9,8.6,54.7,"egg, garlic, oats, cheese, tomato, rice, orange","vegetarian, paleo"
+Recipe_84,527.3,15.3,15.7,39.7,"lettuce, spinach, garlic, egg, peas, beef, pasta",paleo
+Recipe_85,479.8,19.0,5.6,45.8,"cucumber, peas, garlic, pasta, tomato","vegetarian, paleo"
+Recipe_86,601.2,27.4,7.0,70.0,"lettuce, orange, almond, peas, egg","vegan, vegetarian"
+Recipe_87,534.7,20.5,8.3,38.9,"walnut, orange, chicken, pasta, peas, carrot",gluten-free
+Recipe_88,507.5,11.7,13.1,46.6,"rice, zucchini, chicken, pepper, corn",keto
+Recipe_89,546.3,28.6,9.0,37.0,"peas, zucchini, garlic, walnut","high-protein, gluten-free, paleo"
+Recipe_90,644.6,20.7,5.2,69.2,"pasta, lettuce, beef, garlic, oats","high-protein, gluten-free"
+Recipe_91,460.0,28.5,6.9,69.7,"almond, corn, peas","vegan, low-carb, keto"
+Recipe_92,374.9,19.0,12.1,66.4,"lettuce, almond, mushroom, chicken, rice",keto
+Recipe_93,672.9,10.1,8.5,51.1,"cucumber, tomato, orange, egg, carrot, milk, tofu","vegan, low-carb, paleo"
+Recipe_94,694.4,30.1,20.9,48.2,"tomato, chicken, oats, garlic, cucumber, spinach, egg","gluten-free, keto, vegetarian"
+Recipe_95,512.5,39.0,10.4,50.6,"egg, lettuce, pepper, orange","dairy-free, vegetarian, low-carb"
+Recipe_96,356.7,27.0,18.4,47.3,"carrot, cucumber, mushroom, beef, almond, egg, spinach",dairy-free
+Recipe_97,265.2,16.7,7.0,58.4,"pepper, orange, corn",gluten-free
+Recipe_98,601.4,20.9,11.2,47.5,"cucumber, corn, walnut, orange",vegetarian
+Recipe_99,262.2,36.7,11.8,58.9,"chicken, corn, milk, cucumber",keto
+Recipe_100,528.0,13.2,23.3,48.5,"mushroom, egg, walnut","vegan, high-protein"
+
