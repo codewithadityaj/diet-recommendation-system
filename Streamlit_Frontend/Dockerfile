@@ -1,18 +1,11 @@
-# Frontend/Dockerfile
+FROM python:3.10
 
-FROM python:3.10.8
+WORKDIR /app
 
-RUN mkdir -p app/frontend
+COPY . .
 
-COPY Streamlit_Frontend app/frontend
-
-WORKDIR /app/frontend
-
-RUN pip install --upgrade pip
 RUN pip install --no-cache-dir -r requirements.txt
-RUN pip install streamlit-echarts
+
 EXPOSE 8501
 
-ENTRYPOINT ["streamlit","run"]
-
-CMD ["Hello.py"]
+CMD ["streamlit", "run", "Chatbot.py", "--server.port=80", "--server.enableCORS=false"]
